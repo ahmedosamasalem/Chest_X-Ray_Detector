@@ -267,12 +267,6 @@ if uploaded_file is not None:
                 width=450
             )
 
-            st.write(
-                f"**Original size:** "
-                f"{image.size[0]} × {image.size[1]} pixels"
-            )
-
-
         with col2:
 
             st.write("### Confidence :")
