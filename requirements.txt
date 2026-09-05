@@ -1,6 +1,10 @@
-streamlit
-tensorflow
-numpy
+Python
+TensorFlow / Keras
+MobileNetV2
+NumPy
+OpenCV
 Pillow
-opencv-python
-scikit-learn
+Scikit-learn
+Streamlit
+Google Colab
+Kaggle
