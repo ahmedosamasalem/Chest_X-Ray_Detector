@@ -187,7 +187,6 @@ Predicted Class + Confidence
 
 This project demonstrates practical implementation of:
 
-- Computer Vision
 - Deep Learning
 - Transfer Learning
 - Image Preprocessing
