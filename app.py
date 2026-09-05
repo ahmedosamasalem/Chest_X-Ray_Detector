@@ -244,9 +244,9 @@ if uploaded_file is not None:
             )
 
         # RESULT SECTION
-        st.markdown(
-            '<div class="section-title">📊 Prediction : Result</div>',
-            unsafe_allow_html=True
+        
+        st.write(
+            f"### 📊 Prediction Image : {predicted_class}"
         )
 
         col1, col2 = st.columns(
