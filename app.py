@@ -164,6 +164,13 @@ if uploaded_file is not None:
 
     image = Image.open(uploaded_file).convert("RGB")
 
+    st.markdown("""
+    <style>
+    div.stButton > button p {
+        font-size: 24px ;
+    }
+    </style>""", unsafe_allow_html=True)
+    
     predict_button = st.button(
         "🔍 Predict X-Ray",
         width=450
