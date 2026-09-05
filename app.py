@@ -124,10 +124,10 @@ with st.sidebar:
 
     st.subheader("Classes")
 
-    st.write("🔴 COVID")
-    st.write("🟢 Normal")
-    st.write("🟠 Lung Opacity")
-    st.write("🟣 Viral Pneumonia")
+    st.write("1- COVID")
+    st.write("2- Normal")
+    st.write("3- Lung Opacity")
+    st.write("4- Viral Pneumonia")
 
 #  MAIN HEADER : 
 st.markdown(
