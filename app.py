@@ -257,7 +257,7 @@ if uploaded_file is not None:
         with col1:
 
             st.markdown(
-                '<div class="section-title">🩻 X-Ray Image</div>',
+                '<div class="section-title">🩻 X-Ray Image :</div>',
                 unsafe_allow_html=True
             )
 
