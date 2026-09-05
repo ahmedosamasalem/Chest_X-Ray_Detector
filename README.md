@@ -8,7 +8,7 @@ The project uses **Transfer Learning with MobileNetV2**, pretrained on ImageNet,
 
 ## 📌 Overview
 
-Chest X-Ray Detector is a computer vision project designed to demonstrate how deep learning can be applied to medical image classification.
+Chest X-Ray Detector is a CNN project designed to demonstrate how deep learning can be applied to medical image classification.
 
 A pretrained **MobileNetV2** model is used as the feature extractor. The original classification layer is replaced with custom layers designed to classify chest X-ray images into four classes.
 
